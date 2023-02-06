@@ -27,5 +27,5 @@
 [![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/artem-kopyl-212066264/)
 
 ### Contact me
-[![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/qachanell)
-[![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=viber&logoColor=423189)](https://t.me/qachanell)
+[![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/kopyl_artem)
+[![Header](https://img.shields.io/badge/Viber-090909?style=for-the-badge&logo=viber&logoColor=8b00FF)](viber://chat?number=+380971111111)
