@@ -16,11 +16,12 @@
 ![Header](https://img.shields.io/badge/TestRail-090909?style=for-the-badge&logo=&logoColor=71b556)
 
 ### Testing Documentation
-- [Checklists]()
-- [Test-Suites and Test-Cases]()
-- [Bug-Reports]()
-- [SQL Queries]()
-- [Postman Collections]()
+- [Checklists](https://drive.google.com/drive/folders/1BMW5iQ6O57MxLzHYZ2z-hW3bXFzTKg3A)
+- [Test-Suites and Test-Cases](https://drive.google.com/drive/folders/1wood-zIJLUbJXf1In_kP6DrOrXa_eQ3U)
+- [Bug-Reports](https://drive.google.com/drive/folders/1NqhGH1gByiju3qUkb0J8yMcaGRLeqlLT)
+- [SQL Queries](https://drive.google.com/drive/folders/1lOGbbTXGfnJbafW-J-uOBLO_hwwshpe4)
+- [Postman Collections](https://drive.google.com/drive/folders/1011jkQsMF_RCg5WjJQYAmVerK77V5n0e)
+- [Practical test tasks Junior QA](https://drive.google.com/drive/folders/1736Dr0X1ySkG4ZP6noCAqfyse9CAk4R8)
 
 ### Follow Me
 [![Header](https://img.shields.io/badge/Instagram-090909?style=for-the-badge&logo=instagram&logoColor=9939a3)](https://www.instagram.com/artem_kopyl/)
