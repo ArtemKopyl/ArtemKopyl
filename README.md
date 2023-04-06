@@ -3,7 +3,7 @@
 ## I am a Junior Quality Assurance Engineer looking to start my career in an IT company and get my first work experience. Ready for new challenges and striving to succeed as a professional in QA. 
 
 ## My CV
-[Link to my CV](https://drive.google.com/file/d/1od2jw67OSZ3JagqOARbNL6NyUAxg69F6/view?usp=share_link)
+[Link to my CV](https://drive.google.com/drive/folders/12zm-freCNddbCewBMywRlnRzGk2Ia1zO)
 
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
