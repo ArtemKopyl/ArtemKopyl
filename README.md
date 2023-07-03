@@ -5,6 +5,11 @@
 ## My CV
 [Link to my CV](https://drive.google.com/file/d/1hHa8mfVOOYqs87YDjAO2Vnk9-eFB5x1q/view?usp=share_link)
 
+### Certificates
+- [«Full course for Manual QA engineer» certificate from Techmission](https://drive.google.com/file/d/1VNNSArZWVUNCrn1nWg79BIihBhEcJnpe/view?usp=drive_link)
+- [«The Fundamentals of Software Testing» certificate from TestLab](https://drive.google.com/file/d/13hh8fClIvlYz1yj9trPs0nFhsF9u7QrM/view?usp=drive_link)
+- [Certificate on the practical course from Romana Yakymchuk](https://drive.google.com/file/d/1Bm8MQxzPLlKphUkHIAdRMl-u-gDAxhfg/view?usp=drive_link)
+
 ### Language and Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
 ![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
